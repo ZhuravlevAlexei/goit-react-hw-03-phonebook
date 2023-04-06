@@ -1,0 +1,11 @@
+.contItem {
+  display: flex;
+  align-items: center;
+}
+
+.delButton {
+  width: 80px;
+  margin-left: 15px;
+  font-size: 12px;
+  border-radius: 5px;
+}

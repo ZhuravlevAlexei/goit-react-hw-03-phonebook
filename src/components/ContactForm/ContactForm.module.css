@@ -1,0 +1,26 @@
+.contactForm {
+  width: 400px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.contactLabel {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.contactInput {
+  width: 200px;
+  font-size: 16px;
+  padding-left: 8px;
+  margin-top: 5px;
+}
+
+.addBtn {
+  margin-left: 15px;
+  border-radius: 5px;
+}

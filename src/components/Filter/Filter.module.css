@@ -1,0 +1,14 @@
+.contactLabel {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.contactInput {
+  width: 200px;
+  font-size: 16px;
+  padding-left: 8px;
+  margin-top: 5px;
+}
